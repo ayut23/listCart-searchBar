@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check Out</title>
+    <link rel="stylesheet" href="productStyle.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="checkoutLayout">
+            <div class="returnCart">
+                <a href="./products.html">Keep shopping</a>
+                <h1>List Products in Cart</h1>
+                <div class="list">
+                    <div class="item">
+                        <img src="./image/products/light04.jpg" alt="">
+                        <div class="info">
+                            <div class="name"> Product 04</div>
+                            <div class="price"> $22/1 product</div>
+                        </div>
+                        <div class="quantity">1</div>
+                        <div class="returnPrice">$50</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="right">
+                <h1>CHECKOUT</h1>
+                <div class="form">
+                    <div class="group">
+                        <label for="name">Full Name</label>
+                        <input type="text" name="name" id="name">
+                    </div>
+                
+                <div class="group">
+                    <label for="phone">Phone </label>
+                    <input type="text" name="phone" id="phone">
+                </div>
+                <div class="group">
+                    <label for="address">Address</label>
+                    <input type="text" name="address" id="address">
+                </div>
+                <div class="group">
+                    <label for="county">County</label>
+                    <select name="county" id="county">
+                        <option value="">Choose .. </option>
+                        <option value="King"> King County</option>
+                    </select>
+                </div>
+                <div class="group">
+                    <label for="city">City</label>
+                    <select name="city" id="city">
+                        <option value="">Choose .. </option>
+                        <option value="Bellevue">Bellevue</option>
+                    </select>
+                </div>
+            </div>
+            <div class="return">
+                <div class="row">
+                    <div> Total Quantity</div>
+                    <div class="totalQuantity">60</div>
+                </div>
+                <div class="row">
+                    <div> Total Price</div>
+                    <div class="totalPrice"> $240</div>
+                </div>
+            </div>
+            
+            <button class="buttonCheckout">
+                CHECKOUT
+            </button>
+        </div>
+    </div>
+</div>
+
+
+    <!-- <script src="script.js"></script> -->
+    <script src="checkout.js"></script>
+    
+</body>
+
+</html>

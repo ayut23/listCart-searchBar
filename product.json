@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "name":"Product name 1",
+        "price": 50,
+        "image":"./image/products/light01.jpg"
+
+    },
+    {
+
+        "id": 2,
+        "name":"Product name 2",
+        "price" : 150,
+        "image" : "./image/products/light02.jpg"
+
+    },
+    {
+
+        "id": 3,
+        "name":"Product name 3",
+        "price" : 250,
+        "image":"./image/products/light03.jpg"
+
+    },
+    {
+
+        "id": 4,
+        "name":"Product name 4",
+        "price": 350,
+        "image":"./image/products/light04.jpg"
+
+    },
+    {
+        "id": 5,
+        "name":"Product name 5",
+        "price": 250,
+        "image":"./image/products/light05.jpg"
+    },
+    {
+        
+        "id": 6,
+        "name":"Product name 6",
+        "price": 300,
+        "image":"./image/products/light06.jpg"
+    },
+    {
+        "id": 7,
+        "name":"Product name 7",
+        "price": 50,
+        "image":"./image/products/light07.jpg"
+
+    },
+    {
+
+        "id": 8,
+        "name":"Product name 8",
+        "price" : 150,
+        "image" : "./image/products/light08.jpg"
+
+    },
+    {
+
+        "id": 9,
+        "name":"Product name 9",
+        "price" : 250,
+        "image":"./image/products/light09.jpg"
+
+    },
+    {
+
+        "id": 10,
+        "name":"Product name 10",
+        "price": 350,
+        "image":"./image/products/light10.jpg"
+
+    },
+    {
+        "id": 11,
+        "name":"Product name 11",
+        "price": 250,
+        "image":"./image/products/light11.jpg"
+    },
+    {
+        
+        "id": 12,
+        "name":"Product name 12",
+        "price": 300,
+        "image":"./image/products/light12.jpg"
+    }
+
+]
